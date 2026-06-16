@@ -13,3 +13,5 @@ out/
 
 # Temporary files
 *.log
+
+*.txt
