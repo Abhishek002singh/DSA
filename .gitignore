@@ -1,0 +1,15 @@
+# Executable files
+*.exe
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Java build folders
+bin/
+out/
+
+# Temporary files
+*.log
